@@ -1,8 +1,9 @@
 ### Hi there 👋
-### I’m currently a Ph.D. student at Tsinghua University. 🔭
+### I’m currently a Ph.D. student at Beihang University. 🔭
+### Reach me at kychen@buaa.edu.cn
 
 <!--
-**blackfeather-wang/blackfeather-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KyanChen/KyanChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yulin's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackfeather-wang)](https://github.com/anuraghazra/github-readme-stats)
+[![Keyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyanChen)](https://github.com/anuraghazra/github-readme-stats)
 
